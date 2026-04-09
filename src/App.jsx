@@ -129,7 +129,6 @@ export default function App() {
               <input type="hidden" name="_subject" value="New appointment request from Advanced Neck and Back Care website" />
               <input type="hidden" name="_captcha" value="false" />
               <input type="hidden" name="_template" value="table" />
-              <input type="hidden" name="_next" value="https://advancedneckandbackcare-puqhh13gc.vercel.app" />
 
               <label>
                 Full Name
